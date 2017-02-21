@@ -27,7 +27,7 @@ views/scss is a directory for sass/scss files. The file should be valid sass (if
 
 ## Deploy
 
-Easiest is to deploy to (Heroku)[http://heroku.com/]
+Easiest is to deploy to [Heroku](http://heroku.com/)
 
 TODO: Better Instructions
 
