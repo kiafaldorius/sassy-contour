@@ -1,0 +1,16 @@
+# Bundler config
+/.bundle
+
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+# But add the .keep, so the directories are created.
+!/log/.keep
+!/tmp/.keep
+
+/.sass-cache
+
+# Misc files (directory thumbnails, vim swapsaves, etc)
+.DS_Store
+*.swp
+.ruby-version
